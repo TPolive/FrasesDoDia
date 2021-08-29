@@ -1,0 +1,4 @@
+com/cursoandroid/frasesdodiaprojeto/BuildConfig.java
+ com.cursoandroid.frasesdodiaprojeto.BuildConfig
+com/cursoandroid/frasesdodiaprojeto/MainActivity.java
+ com.cursoandroid.frasesdodiaprojeto.MainActivity
